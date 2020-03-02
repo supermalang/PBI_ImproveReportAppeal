@@ -1,8 +1,8 @@
 # Improve the Visual Appeal of Your Reports: Tips and Best Practices
 
-This repository contains presentation and material files used at the ***PowerBi Days*** event of 29 February 2020 in Dakar, for the session of the same title.
+This repository contains [presentation](01%20-%20Improve%20the%20visual%20appeal%20of%20your%20reports%20-%20Tips%20and%20Best%20Practices.pdf) and material files used at the ***PowerBi Days*** event of 29 February 2020 in Dakar, for the session of the same title.
 
-The presentation is organized as following:
+The [presentation](01%20-%20Improve%20the%20visual%20appeal%20of%20your%20reports%20-%20Tips%20and%20Best%20Practices.pdf) is organized as following:
 
 1. Present your reports in a meaningful and relevant way  
     1. Think of the message rather than the graphics
