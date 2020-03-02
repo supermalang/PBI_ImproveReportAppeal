@@ -59,13 +59,13 @@ The presentation is organized as following:
 He is passionate in learning and sharing. What drives him is the belief that we rise by lifting others.
 Elhadji is also a Data Enthusiast who can convert cups of coffee into code 👩🏾‍💻.  
 **More about Elhadji**:
-  * [Website]
+  * [LinkedIn]
   * [Twitter]
   * [GitHub]
 
 
 [Hotel Booking Dataset]: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/hotels.csv
 [this Kaggle paper]: https://www.kaggle.com/jessemostipak/hotel-booking-demand/metadata
-[Website]: https://elhadjmalang.com
+[LinkedIn]: https://linkedin.com/in/supermalang
 [GitHub]: https://github.com/supermalang
 [Twitter]: https://twitter.com/supermalang_
